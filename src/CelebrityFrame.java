@@ -1,5 +1,6 @@
 import javax.swing.JFrame;
 import javax.swing.JPanel;
+import java.awt.CardLayout;
 
 /**
  * GUI Frame class for the Celebrity Game
@@ -34,6 +35,12 @@ public class CelebrityFrame extends JFrame {
 	 */
 	public CelebrityFrame(CelebrityGame controllerRef) {
 		super();
+		controller = controllerRef;
+		panelCards = new JPanel(new CardLayout());
+		gamePanel = new CelebrityPanel(controller);
+		startPanel = new StartPanel(controller);
+		setupFrame();
+
 	}
 	
 	/**
