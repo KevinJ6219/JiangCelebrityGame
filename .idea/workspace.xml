@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa82faeb-e3e2-4f7f-a55f-19954cd0de50" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Celebrity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Celebrity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CelebrityFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelebrityFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CelebrityGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelebrityGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CelebrityPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelebrityPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/CelebrityRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CelebrityRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StartPanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StartPanel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +29,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\BT_3W2_34\IdeaProjects\JiangCelebrityGame\src" />

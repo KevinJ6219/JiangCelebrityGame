@@ -50,8 +50,8 @@ public class CelebrityFrame extends JFrame {
 	private void setupFrame() {
 		// the following are methods INHERITED from JFrame that we can call since
 		// CelebrityFrame is a subclass of JFrame
-		setSize(800, 500);  // (window width, window height)
-		setTitle("Celebrity Game");
+		setSize(1980, 1080);  // (window width, window height)
+		setTitle("Celebrity Game 2.0");
 		add(panelCards);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
